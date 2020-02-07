@@ -1,0 +1,21 @@
+{
+  "name": "rido",
+  "version": "0.0.3",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rido": "./bin/rido"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridvanaltun/rido.git"
+  },
+  "author": "Ridvan Altun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridvanaltun/rido/issues"
+  },
+  "homepage": "https://github.com/ridvanaltun/rido#readme"
+}
